@@ -7,7 +7,6 @@ To learn how to use DynamoDB and the serverless framework.
 ### How can it be testesd? 
 
 #### Use Curl or postman
-<br/>
 
 #### Create(Post) a recipe
 1. Curl
